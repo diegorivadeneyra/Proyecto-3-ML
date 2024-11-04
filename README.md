@@ -5,3 +5,5 @@
  - Sergio Luis Saldaña - (100\%)
  
  - Fernando Rodrigo Fuentes - (100\%)
+
+ - Fabio Tejada (70\%)
